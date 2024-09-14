@@ -1,0 +1,14 @@
+Inputs
+
+noun1
+adjective1
+adjective2
+verb1
+num1
+
+Outputs
+
+State what the story is about.
+Request the words to fill in the story
+
+The new adjective1 computer was unveiled at the tech conference, featuring a powerful processor and a massive noun1 of storage. The crowd was amazed as the CEO demonstrated the computer's ability to verb1 complex calculations in seconds. The computer's sleek design and adjective2 display made it a standout in the industry. With a price tag of num1 dollars, it was clear that this computer was a game-changer.
